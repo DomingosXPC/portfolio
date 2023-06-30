@@ -1,31 +1,88 @@
-# Astro Starter Kit: Portfolio
+# Portfolio - Domingos Pinto-Coelho
 
-```
-npm create astro@latest -- --template portfolio
-```
+## Description
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This is the portfolio of Domingos Pinto-Coelho, showcasing his skills and experience in UX/UI Design and Product Management. The portfolio is built using Astro, a static site builder.
 
 ![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
 
+## Installation
 
-## 🧞 Commands
+To run this portfolio locally, follow these steps:
 
-All commands are run from the root of the project, from a terminal:
+1. Clone the repository:
+   `https://github.com/DomingosXPC/portfolio.git`
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+2. Navigate to the project directory:
+   `portfolio`
 
-## 👀 Want to learn more?
+3. Install the dependencies:
+   `npm install`
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## Usage
+
+### Development Mode
+
+To run the portfolio in development mode, use the following command:
+`npm run dev`
+
+This will start the Astro development server and you can access the portfolio in your browser at [http://localhost:3000](http://localhost:3000).
+
+### Production Build
+
+To build the portfolio for production, use the following command:
+`npm run build`
+
+This will generate the optimized static files in the `dist` directory.
+
+### Preview Build
+
+To preview the production build locally, use the following command:
+`npm run preview`
+
+This will start a local server to preview the built portfolio at [http://localhost:5000](http://localhost:5000).
+
+## Profile Summary
+
+Domingos Pinto-Coelho is a UX/UI Designer and Product Manager based in Cascais, Lisbon, Portugal. With over 2 years of experience, Domingos specializes in optimizing UX/UI on digital touchpoints, managing cross-functional teams, and aligning activation plans with marketing strategies.
+
+## Experience
+
+### Zasady
+
+*Product Designer & Digital Marketeer*
+
+- February 2021 - Present (2 years 5 months)
+- Optimized UX/UI on all digital touchpoints
+- Managed cross-functional teams
+- Created end-to-end online UX/UI designs for web components with record-breaking conversion rates
+
+### Nanos - AI Marketing
+
+*UX/UI Designer*
+
+- September 2019 - February 2021 (1 year 6 months)
+
+## Education
+
+- BrainStation
+  - Product Management · May 2023 - August 2023
+- NEOLAND
+  - UX/UI · 2019
+- Udemy
+  - UX/UI / Graphic Design / Web Development · 2019
+- Teatro Experimental Cascais
+  - Performative arts, Acting, Photography, Music · 2017 - 2019
+
+## Top Skills
+
+- Search Engine Marketing (SEM)
+- Google Analytics
+- Customer Relationship Management (CRM)
+
+## Languages
+
+- English (Native or Bilingual)
+- Spanish (Native or Bilingual)
+- Portuguese (Native or Bilingual)
+- French (Elementary)
