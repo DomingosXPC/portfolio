@@ -17,7 +17,7 @@ tags:
 
 > The Result? Lead Overflow
 
-My client is a Web Design & Coding School located in Manhattan Beach. They’re goal is to train as many students as they can into becoming successful IT professionals. On their website, engagement and active users had been declining gradually overtime.
+My clients are a Web Design & Coding School located in Manhattan Beach. They’re goal is to train as many students as they can into becoming successful IT professionals. On their website, engagement and active users had been declining gradually overtime.
 
 I worked alongside the development team to deliever a revamped version of the website that achieved: <strong>Bounce Rate (-52%)</strong>, <strong> Exit Rate (-46%)</strong>, <strong>Lead Conversion Rate (+1300%)</strong>, <strong>Returning Visitors (+167%)</strong>.
 
@@ -32,13 +32,15 @@ Through their previous website, my clients were trying to inform and captivate p
 					src="/assets/BeachCoders_Previous_Website-2048x1057.jpg"
 				/>
 
-### Insights
+### Data Analysis
 
-I gathered and analyzed the numbers that would tell me how the website was being used and if it was fulfilling the needs of the users.
+I analyzed the website's performance and user behavior. The findings indicate several areas that need improvement.
 
-Based on data results, bounce rate on the homepage was 58%. Of the remaining users, 36% would exit on a different page. The online enrollment had reported no conversions in the last three months and the lead magnet a 2% conversion rate. Only 9% of the users were returning to the website.
+Firstly, the bounce rate on the homepage is quite high at 58%, suggesting that a significant number of users leave the site without further engagement. Additionally, 36% of the remaining users exit the website from different pages, indicating difficulties in finding the desired information.
 
-I stated not only was the website not engaging enough, the users couldn’t find the information they needed.
+Furthermore, the online enrollment feature has not yielded any conversions in the past three months, and the lead magnet has achieved a conversion rate of only 2%. Moreover, the rate of returning users is quite low, with only 9% revisiting the website.
+
+These findings suggest that the website lacks engagement and fails to meet the information needs of users. Addressing these issues is crucial to improve user experience and achieve better results.
 
 <img
 					alt="Infographics of the analytics found in the previous website "
@@ -50,7 +52,7 @@ I stated not only was the website not engaging enough, the users couldn’t find
 
 #### User Insights
 
-By interviewing, researching and testing various elements in the past, I gained valuable insights that informed my design decisions. Most importantly:
+By interviewing, researching and testing various elements, I gained valuable insights that informed my design decisions. Most importantly:
 
 - Displaying the course instructors, school reviews and financial options available is a highly effective way to establish authority and credibility. These features consistently resonate with the users.
 - Highlighting metrics like salary, pass rates, and placement rates, engages users who are seeking to make significant changes in their lives through courses. Providing users with tangible data allows them to envision their potential success, resulting in a better experience that reinforces their motivations.
