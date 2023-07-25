@@ -4,7 +4,7 @@
 
 This is the portfolio of Domingos Pinto-Coelho, showcasing his skills and experience in UX/UI Design and Product Management. The portfolio is built using Astro, a static site builder.
 
-![portfolio](public\assets\home-picture.png)
+![portfolio](public/assets/home-picture.png)
 
 ## Installation
 
