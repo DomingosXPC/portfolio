@@ -4,7 +4,7 @@
 
 This is the portfolio of Domingos Pinto-Coelho, showcasing his skills and experience in UX/UI Design and Product Management. The portfolio is built using Astro, a static site builder.
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+![portfolio](public\assets\home-picture.png)
 
 ## Installation
 
@@ -50,7 +50,7 @@ Domingos Pinto-Coelho is a UX/UI Designer and Product Manager based in Cascais, 
 
 ### Zasady
 
-*Product Designer & Digital Marketeer*
+_Product Designer & Digital Marketeer_
 
 - February 2021 - Present (2 years 5 months)
 - Optimized UX/UI on all digital touchpoints
@@ -59,7 +59,7 @@ Domingos Pinto-Coelho is a UX/UI Designer and Product Manager based in Cascais, 
 
 ### Nanos - AI Marketing
 
-*UX/UI Designer*
+_UX/UI Designer_
 
 - September 2019 - February 2021 (1 year 6 months)
 
