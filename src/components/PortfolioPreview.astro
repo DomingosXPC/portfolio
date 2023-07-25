@@ -1,16 +1,24 @@
 ---
-import type { CollectionEntry } from 'astro:content';
+import type { CollectionEntry } from "astro:content";
 
 interface Props {
-	project: CollectionEntry<'work'>;
+	project: CollectionEntry<"work">;
 }
 
 const { data, slug } = Astro.props.project;
+
+const isComingSoon = data.title === "Comming Soon";
+const cardLink = isComingSoon ? undefined : `/work/${slug}`;
 ---
 
-<a class="card" href={`/work/${slug}`}>
+<a class="card" href={cardLink}>
 	<span class="title">{data.title}</span>
-	<img src={data.img} alt={data.img_alt || ''} loading="lazy" decoding="async" />
+	<img
+		src={data.img}
+		alt={data.img_alt || ""}
+		loading="lazy"
+		decoding="async"
+	/>
 </a>
 
 <style>
@@ -28,6 +36,10 @@ const { data, slug } = Astro.props.project;
 		font-size: var(--text-lg);
 		font-weight: 500;
 		transition: box-shadow var(--theme-transition);
+	}
+
+	.card[href=""] {
+		cursor: default; /* Establece el cursor como "default" cuando el atributo href no está presente */
 	}
 
 	.card:hover {
