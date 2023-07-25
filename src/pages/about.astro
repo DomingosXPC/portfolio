@@ -12,12 +12,15 @@ import Hero from '../components/Hero.astro';
 				title="About"
 				tagline="Thanks for stopping by. Read below to learn more about myself and my background."
 			>
+			<div class="about-img">
 				<img
 					width="360"
 					height="auto"
 					src="/assets/Domingos-in-AI.jpg"
 					alt="Domingos in an AI image"
 				/>
+			</div>
+				
 			</Hero>
 
 			<section>
@@ -74,6 +77,9 @@ import Hero from '../components/Hero.astro';
 		display: flex;
 		flex-direction: column;
 		gap: 3.5rem;
+	}
+	.about-img{
+		align-items: center;
 	}
 
 	img {
