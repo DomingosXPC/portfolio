@@ -79,6 +79,7 @@ _UX/UI Designer_
 
 - UX/UI Design
 - Product Management
+- Web Development
 - Search Engine Marketing (SEM)
 - Data Analysis
 - Customer Relationship Management (CRM)
