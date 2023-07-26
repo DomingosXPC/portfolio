@@ -44,7 +44,7 @@ This will start a local server to preview the built portfolio at [http://localho
 
 ## Profile Summary
 
-Domingos Pinto-Coelho is a UX/UI Designer and Product Manager based in Cascais, Lisbon, Portugal. With over 2 years of experience, Domingos specializes in optimizing UX/UI on digital touchpoints, managing cross-functional teams, and aligning activation plans with marketing strategies.
+Domingos Pinto-Coelho is a UX/UI Designer and Product Manager based in Cascais, Lisbon, Portugal. With over 4 years of experience, Domingos specializes in optimizing UX/UI on digital touchpoints, managing cross-functional teams, and aligning activation plans with marketing strategies.
 
 ## Experience
 
@@ -69,6 +69,7 @@ _UX/UI Designer_
   - Product Management · May 2023 - August 2023
 - NEOLAND
   - UX/UI · 2019
+  - Web Development · 2019
 - Udemy
   - UX/UI / Graphic Design / Web Development · 2019
 - Teatro Experimental Cascais
@@ -76,8 +77,10 @@ _UX/UI Designer_
 
 ## Top Skills
 
+- UX/UI Design
+- Product Management
 - Search Engine Marketing (SEM)
-- Google Analytics
+- Data Analysis
 - Customer Relationship Management (CRM)
 
 ## Languages
