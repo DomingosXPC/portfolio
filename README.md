@@ -73,7 +73,7 @@ _UX/UI Designer_
 - Udemy
   - UX/UI / Graphic Design / Web Development · 2019
 - Teatro Experimental Cascais
-  - Performative arts, Acting, Photography, Music · 2017 - 2019
+  - Performative arts, Acting, Photography, Music · 2017 - 2018
 
 ## Top Skills
 
