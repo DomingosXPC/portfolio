@@ -1,6 +1,5 @@
 ---
 title: Goldenbook
-
 publishDate: 2023-11-09 00:00:00
 img: /assets/Goldenbook-App.jpg
 img_alt: App cover and first onboarding screen on a phone mockup
@@ -32,7 +31,7 @@ Proposed solution (with a <strong>Most Valuable Product):</strong>
 <img
 					alt="goldenbook physical books"
 					width="100%"
-					height="50%"
+					height="auto"
 					src="/assets/goldenbook-books.jpg"
 				/>
 

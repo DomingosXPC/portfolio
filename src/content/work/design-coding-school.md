@@ -1,11 +1,10 @@
 ---
 title: Design & Coding School
-
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Website homepage hero on a desktop mockup
 description: |
- I revamped the school's website with a fresh design and new  content, to achieve mesmerizing results.
+  I revamped the school's website with a fresh design and new  content, to achieve mesmerizing results.
 tags:
   - UX/UI Design
   - User Research
@@ -13,7 +12,6 @@ tags:
 ---
 
 ## Website Revamp
-
 
 > The Result? Lead Overflow
 
@@ -49,7 +47,6 @@ These findings suggest that the website lacks engagement and fails to meet the i
 					src="/assets/Website_performance_infographics-2-2048x918.jpg"
 				/>
 
-
 #### User Insights
 
 By interviewing, researching and testing various elements, I gained valuable insights that informed my design decisions. Most importantly:
@@ -77,7 +74,6 @@ I came up with a design that would make the school shine as a trustworthy author
 					height="auto"
 					src="/assets/Half_Homepage_Design.jpg"
 				/>
-
 
 #### Additional Elements
 
