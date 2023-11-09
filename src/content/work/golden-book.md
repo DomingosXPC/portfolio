@@ -3,103 +3,122 @@ title: Goldenbook
 
 publishDate: 2023-11-09 00:00:00
 img: /assets/Goldenbook-App.jpg
-img_alt: Website homepage hero on a desktop mockup
+img_alt: App cover and first onboarding screen on a phone mockup
 description: |
-  I revamped the school's website with a fresh design and new  content, to achieve mesmerizing results.
+  Conceptualized and designed the app from the ground up. Approved and awaiting funding.
 tags:
   - UX/UI Design
-  - User Research
-  - Data Analysis
+  - Product Management
 ---
 
-## Website Revamp
+## App Design from Scratch
 
-> The Result? Lead Overflow
+> Introducing the digital age
 
-My clients are a Web Design & Coding School located in Manhattan Beach. They’re goal is to train as many students as they can into becoming successful IT professionals. On their website, engagement and active users had been declining gradually overtime.
+In the world of printed books, GoldenBook was well-loved for its trusted recommendations. But as the world embraced the digital age, they are missing out on a big opportunity. Goldenbook has around <strong> 3.5 million readers a year.</strong> Pocket book guides are out of fashion and they didn't not having a digital platform to serve this enormous clientelle is costing them a tremendous profit opportunity.
 
-I worked alongside the development team to deliever a revamped version of the website that achieved: <strong>Bounce Rate (-52%)</strong>, <strong> Exit Rate (-46%)</strong>, <strong>Lead Conversion Rate (+1300%)</strong>, <strong>Returning Visitors (+167%)</strong>.
 
-### Background
+To fix this, I came up with an app idea: a modern and <strong>high-quality pocket guide.</strong> It's been approved and is waiting for funding. This app aims to <strong> position GoldenBook competitively in the digital world</strong> and significantly expand their income source. 
 
-Through their previous website, my clients were trying to inform and captivate prospective students. It was visually outdated and had fallen behind in this ever evolving industry.
+<strong>Hypothesis:</strong> If readers were given a digital platform on which they could have goldenbook's guidance, they would use it daily during their stay.
 
-<img
-					alt="Golden Book app"
-					width="100%"
-					height="auto"
-					src="/assets/Goldenbook-App.jpg"
-				/>
-
-### Data Analysis
-
-I analyzed the website's performance and user behavior. The findings indicate several areas that need improvement.
-
-Firstly, the bounce rate on the homepage is quite high at 58%, suggesting that a significant number of users leave the site without further engagement. Additionally, 36% of the remaining users exit the website from different pages, indicating difficulties in finding the desired information.
-
-Furthermore, the online enrollment feature has not yielded any conversions in the past three months, and the lead magnet has achieved a conversion rate of only 2%. Moreover, the rate of returning users is quite low, with only 9% revisiting the website.
-
-These findings suggest that the website lacks engagement and fails to meet the information needs of users. Addressing these issues is crucial to improve user experience and achieve better results.
+Proposed solution (with a <strong>Most Valuable Product):</strong>
+- Create a digital community with exclusive advantages.
+- Bridge client with location by offering contact information and brief overview.
+- Allow free navigation but also filtered and categorized.
+- Offer elegant, intuitive, and clean platform.
+- Make accessible the latest book editions (by download).
 
 <img
-					alt="Infographics of the analytics found in the previous website "
+					alt="goldenbook physical books"
 					width="100%"
-					height="auto"
-					src="/assets/Website_performance_infographics-2-2048x918.jpg"
+					height="50%"
+					src="/assets/goldenbook-books.jpg"
 				/>
 
-#### User Insights
+### Research
 
-By interviewing, researching and testing various elements, I gained valuable insights that informed my design decisions. Most importantly:
+My research first centered around the competition space in order to understand how other apps explored the opportunity. 
 
-- Displaying the course instructors, school reviews and financial options available is a highly effective way to establish authority and credibility. These features consistently resonate with the users.
-- Highlighting metrics like salary, pass rates, and placement rates, engages users who are seeking to make significant changes in their lives through courses. Providing users with tangible data allows them to envision their potential success, resulting in a better experience that reinforces their motivations.
-- Making clear the course outline and skills taught helps students understand how the course will help launch to their future careers.
+More than 100 user survey responses would help quantify what customers are looking for, and what they’re hoping to resolve. And lastly, one-on-one interviews would help me understand users’ journeys and specific issues the app would need to address.
 
-#### Revamped Design
+<strong>Findings:</strong>
+- No direct competition, but several attempts at providing travel recommendations.
+- Users were highly dependent of reviews to decide where to go.
+- Finding quality recommendations was an issue for all.
+- Decision making was “hard” and “felt risky” for most users, for the lack of a reliable quality guide.
+- Only 5% resorted to book pocket guides.
 
-I came up with a design that would make the school shine as a trustworthy authority in the industry. I did so with content, color, typography, images and interactive elements.
+
+### Getting Closer to User-Centered Design
+
+As research and design proceeded, I focused primarily on one persona because he represented an array of characteristics that identified the target user. This persona emphasized to the inconvenience of a physical book guide and the benefits of having a go-to source at anytime.
+
+<img
+					alt="Goldenbook user persona Phill Harris "
+					width="100%"
+					height="auto"
+					src="/assets/User-persona.jpg"
+				/>
+
+#### Heighten User Empathy
+
+By creating and exploring the journey maps of my persona  I uncovered key emotional/procedural moments that Goldenbook needed to address. 
+
+The anxiety someone might feel, for example, for not knowing what to do nor how to contact and navigate to a desired location. To ensure the app’s stickiness, it would need to overcome these problems … and not introduce new points of friction.
+
+<img
+					alt="Goldenbook customer journey"
+					width="100%"
+					height="auto"
+					src="/assets/Customer-journey.jpg"
+				/>
+
+<img
+					alt="Goldenbook user flow "
+					width="100%"
+					height="auto"
+					src="/assets/user-flow-goldenbook.jpg"
+				/>
+
+#### Creating structure
+
+The sitemap informed by surveys and interviews, organizationally depicts the three key task streams that the high fidelity prototype would focus on: 1. Onboarding and registration, 2. Search page browsing and decision making, and 3. Obtaining contact information. The framework the site map provides, along with the user insight collected this far, would guide design decisions moving forward.
 
 <img
 					alt="Style guides used in the website"
 					width="100%"
 					height="auto"
-					src="/assets/Typography_Colors_w-2048x914.jpg"
+					src="/assets/Sitemap-goldenbook.jpg"
 				/>
 
-#### Design Highlights
+#### Understanding What Users Find Intuitive
 
-<img
-					alt="Half of the homepage"
-					width="100%"
-					height="auto"
-					src="/assets/Half_Homepage_Design.jpg"
-				/>
+Low-fidelity prototype testing allowed me to better understand how users expected to complete the tasks I was focusing on. By studying their touch and swipe gestures — and more importantly, having a dialogue with them about what they expected and when — I knew which adjustments needed to be made to lay the foundation for a more fully realized high fidelity prototype. Small details such as consistent paths to get back, would become important elements.
 
-#### Additional Elements
 
-<img
-					alt="Design Course Hero Section"
-					width="100%"
-					height="auto"
-					src="/assets/Ultimate_UX_Course_Hero.jpg"
-				/>
+#### Surfacing new issues
 
-<img
-					alt="Coding Course Outline Page"
-					width="100%"
-					height="auto"
-					src="/assets/Codewave.JS.jpg"
-				/>
+The high-fidelity prototype brought test users closest to the real experience yet, and it revealed some issues. While users were able to complete the onboarding experience, the realistic nature of it revealed some apprehension. Security, privacy, what happens if they forgot their passwords … these were among the topics raised by test subjects.
 
-#### Conclusion
+They were also able to verbalize a need they hadn’t thought of before this iteration: Could the app somehow make recommendations in compliance with a busy calendar and other personal conditionals like eating regimen — Yet another piece of information that could empower them to make better decisions and adhere more to the app.
 
-Through data analysis and user insights, valuable lessons were learned that informed a successful redesign strategy.
+##### Prototype tasks
+<strong> Task 1: </strong> Successfully onboard the app.
 
-The new website, featuring visually appealing and user-friendly elements, significantly reduced bounce rate (-52%) and exit rate (-46%). Lead conversion rate soared (+1300%), and returning visitors increased notably (+167%).
+<strong> Task 2: </strong> Get the contact details of "Tin Goods Snack Shop".
 
-Key learnings include the importance of displaying vital information and clear communication of the course outline and skills taught to establish credibility and engage potential students.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="650" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEEkJbdLvDcuRPGR7fpvG8j%2FGoldenbook%3Ftype%3Ddesign%26node-id%3D174-415%26t%3D1NCB7nrtLYENZ7cO-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D174%253A415%26mode%3Ddesign" allowfullscreen></iframe>
 
-The revamped website successfully revitalized the school's online presence, capturing the attention of prospective students. Continuous monitoring and data-driven refinements are recommended for further optimization.
+#### How the app can be Improved
 
-In summary, the website revamp achieved impressive results, solidifying the school's leadership in the industry.
+Issues to Address for Longer-Term Development:
+
+<strong>Offer and revenue:</strong>
+- Goldenbooking: Expand partnerships to provide users with exclusive discounts when booking directly from the app, of any kind (restaurants, hotels, etc.). This would provide a cheaper reservation price to the user and a lower CPA (cost per acquisition) to the client, considering it’d be below the rates of the most used services. This win-win solution would put money in everyone’s pocket.
+- Featuring special events, products or clients. This would increase the revenue source of the app.
+- Establish partnerships to provide with full-day/week itineraries. 
+
+<strong>Usability:</strong>
+- Allow users to see what’s close to them on a map.
+- Advanced filtering functions to fine tune viewing options based on user preferences.
