@@ -112,7 +112,7 @@ They were also able to verbalize a need they hadn’t thought of before this ite
 
 #### How the app can be Improved
 
-Issues to Address for Longer-Term Development:
+Issues and Opportunities to address for longer-term development:
 
 <strong>Offer and revenue:</strong>
 - Goldenbooking: Expand partnerships to provide users with exclusive discounts when booking directly from the app, of any kind (restaurants, hotels, etc.). This would provide a cheaper reservation price to the user and a lower CPA (cost per acquisition) to the client, considering it’d be below the rates of the most used services. This win-win solution would put money in everyone’s pocket.
