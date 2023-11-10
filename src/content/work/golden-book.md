@@ -108,7 +108,7 @@ They were also able to verbalize a need they hadn’t thought of before this ite
 
 <strong> Task 2: </strong> Get the contact details of "Tin Goods Snack Shop".
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="650" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEEkJbdLvDcuRPGR7fpvG8j%2FGoldenbook%3Ftype%3Ddesign%26node-id%3D174-415%26t%3D1NCB7nrtLYENZ7cO-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D174%253A415%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="650" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEEkJbdLvDcuRPGR7fpvG8j%2FGoldenbook%3Ftype%3Ddesign%26node-id%3D174-415%26t%3D1NCB7nrtLYENZ7cO-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D174%253A415%26mode%3Ddesign" allowfullscreen></iframe>
 
 #### How the app can be Improved
 
