@@ -65,7 +65,7 @@ As research and design proceeded, I focused primarily on one persona because he 
 
 By creating and exploring the journey maps of my persona  I uncovered key emotional/procedural moments that Goldenbook needed to address. 
 
-The anxiety someone might feel, for example, for not knowing what to do nor how to contact and navigate to a desired location. To ensure the app’s stickiness, it would need to overcome these problems … and not introduce new points of friction.
+The anxiety someone might feel, for example, for not knowing what to do or how to contact and navigate to a desired location. To ensure the app’s stickiness, it would need to overcome these problems … and not introduce new points of friction.
 
 <img
 					alt="Goldenbook customer journey"
