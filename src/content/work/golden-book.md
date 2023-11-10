@@ -18,7 +18,7 @@ tags:
 In the world of printed books, GoldenBook was well-loved for its trusted recommendations. But as the world embraced the digital age, they are missing out on a big opportunity. Goldenbook has around <strong> 3.5 million readers a year.</strong> Pocket book guides are out of fashion and not having a digital platform to serve this enormous user base is costing them a tremendous profit opportunity.
 
 
-To fix this, I came up with an app idea: a modern and <strong>high-quality pocket guide.</strong> It's been approved and is waiting for funding. This app aims to <strong> position GoldenBook competitively in the digital world</strong> and significantly expand their income source. 
+To fix this, I came up with an app idea: a modern and <strong>high-quality pocket digital guide.</strong> It's been approved and is waiting for funding. This app aims to <strong> position GoldenBook competitively in the digital world</strong> and significantly expand their income source. 
 
 <strong>Hypothesis:</strong> If readers were given a digital platform on which they could have goldenbook's guidance, they would use it daily during their stay.
 
