@@ -104,20 +104,20 @@ The high-fidelity prototype brought test users closest to the real experience ye
 They were also able to verbalize a need they hadn’t thought of before this iteration: Could the app somehow make recommendations in compliance with a busy calendar and other personal conditionals like eating regimen — Yet another piece of information that could empower them to make better decisions and increase the product's stickiness.
 
 ##### Prototype tasks
-<strong> Task 1: </strong> Successfully create an account with Email and onboard the app.
+<strong> Task 1: </strong> Onboard the app without creating an account.</br>
+<strong> Task 2: </strong> Enter Lisboa search results.</br>
+<strong> Task 3: </strong> Get the contact details of Restaurante Praia Grande, a restaurant found inside the category 'Gastronomia & Vinhos'.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="650" src="https://embed.figma.com/proto/Pc7oFtv3zrC4Srncbh73yR/Goldenbook-Legacy?node-id=333-178&node-type=frame&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=333%3A178&embed-host=share" allowfullscreen></iframe>
 
-<strong> Task 2: </strong> Get the contact details of "Tin Goods Snack Shop".
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="650" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEEkJbdLvDcuRPGR7fpvG8j%2FGoldenbook%3Ftype%3Ddesign%26node-id%3D174-415%26t%3D1NCB7nrtLYENZ7cO-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D174%253A415%26mode%3Ddesign" allowfullscreen></iframe>
 
 #### How the app can be Improved
 
 Issues and Opportunities to address for longer-term development:
 
 <strong>Offer and revenue:</strong>
-- Goldenbooking: Expand partnerships to provide users with exclusive discounts when booking directly from the app, of any kind (restaurants, hotels, etc.). This would provide a cheaper reservation price to the user and a lower CPA (cost per acquisition) to the client, considering it’d be below the rates of the most used services. This win-win solution would put money in everyone’s pocket.
-- Featuring special events, products or clients. This would increase the revenue source of the app.
-- Establish partnerships to provide with full-day/week itineraries. 
+- Native app advertising.
+- Establish partnerships to provide with full-day/week itineraries.
 
 <strong>Usability:</strong>
 - Allow users to see what’s close to them on a map.
