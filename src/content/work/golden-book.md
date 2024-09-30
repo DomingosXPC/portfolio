@@ -5,7 +5,7 @@ publishDate: 2023-11-09 00:00:00
 img: /assets/Goldenbook-App.jpg
 img_alt: App cover and first onboarding screen on a phone mockup
 description: |
-  Conceptualized and designed a robust and scalable. Approved and funded.
+  Conceptualized and designed a robust and scalable app. Approved and funded.
 tags:
   - UX/UI Design
   - Product Management
